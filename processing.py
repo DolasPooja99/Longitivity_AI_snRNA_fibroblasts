@@ -6,7 +6,7 @@ from sklearn.preprocessing import StandardScaler # For optional scaling before P
 
 # --- Configuration ---
 # IMPORTANT: Replace with the actual path to your .h5ad file
-H5AD_FILE_PATH = "/Users/venkatachalamsubramanianperiyasubbu/Downloads/f5b09167-e4b5-4f32-b7b4-f0b7c402a4c4.h5ad"
+H5AD_FILE_PATH = "/path/to/your/file.h5ad"
 
 # Name of the directory to store the output Parquet files
 OUTPUT_DIR_NAME = "snRNA-seq_of_human_optic_nerve_and_optic_nerve_head_endothelial_cells_ml_data"
