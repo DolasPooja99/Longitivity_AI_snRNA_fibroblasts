@@ -4,7 +4,7 @@
 This repository includes a Python script `processing.py` that processes `.h5ad` single-nucleus RNA sequencing (snRNA-seq) data and extracts essential features for machine learning (ML) tasks. It generates structured `.parquet` files, including expression matrices, metadata, and principal components (PCA).
 
 Dataset reference:  
-[View on Hugging Face](https://huggingface.co/datasets/longevity-db/snRNA-seq_of_human_optic_nerve_and_optic_nerve_head_endothelial_cells_ml_data)
+[View on Hugging Face](https://huggingface.co/datasets/longevity-db/human-optic-nerve-fibroblasts-snRNAseq)
 
 ---
 
@@ -92,7 +92,7 @@ snRNA-seq_of_human_optic_nerve_and_optic_nerve_head_fibroblasts_cells_ml_data/
 - Source Dataset:
 
 ## Final Output:
-- Final Dataset :[longevity-db/snRNA-seq_of_human_optic_nerve_and_optic_nerve_head_fibroblasts_cells_ml_data](https://huggingface.co/datasets/longevity-db/snRNA-seq_of_human_optic_nerve_and_optic_nerve_head_endothelial_cells_ml_data)
+- Final Dataset :[longevity-db/snRNA-seq_of_human_optic_nerve_and_optic_nerve_head_fibroblasts_cells_ml_data](https://huggingface.co/datasets/longevity-db/human-optic-nerve-fibroblasts-snRNAseq)
 - File Format: [AnnData Documentation](https://anndata.readthedocs.io/en/latest/)
 - PCA: [Scikit-learn PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
 
